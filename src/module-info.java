@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author phenr
+ *
+ */
+module ChessGame {
+}
